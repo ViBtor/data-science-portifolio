@@ -1,4 +1,4 @@
-# data-science-portifolio
+# credit-card-churn-starter
 
 ## Primeiros aprendizados em Data Science com Pandas e Scikit-Learn.
 
